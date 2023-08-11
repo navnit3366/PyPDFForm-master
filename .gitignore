@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+temp/
+venv/
+venv-linux/
+htmlcov/
+.coverage
+draft.py
+*.swp

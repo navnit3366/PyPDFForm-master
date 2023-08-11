@@ -1,0 +1,8 @@
+coverage
+jsonschema
+pdfrw
+pillow
+pudb
+pylint
+pytest
+reportlab
